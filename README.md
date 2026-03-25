@@ -165,4 +165,4 @@ Every response follows this shape:
 
 ## License
 
-MIT
+CUSTOM - VIEW LICENSE.md
