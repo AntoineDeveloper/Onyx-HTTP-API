@@ -1,0 +1,29 @@
+{
+  "name": "onyx-http-api",
+  "version": "1.0.0",
+  "description": "REST API bridge for Obsidian Onyx lighting software via Onyx Manager Telnet interface",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "onyx",
+    "obsidian",
+    "lighting",
+    "dmx",
+    "telnet",
+    "rest",
+    "api",
+    "onyx-manager"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
