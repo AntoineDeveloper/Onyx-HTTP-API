@@ -13,7 +13,7 @@ Onyx HTTP API sits between your applications and Onyx Manager's telnet server. I
 - **Interactive API docs** — auto-generated Swagger UI at `/docs`
 - **Optional auth** — enable a Bearer token gate with a single env var
 - **Verbose logging** — colour-coded, level-gated console output so you always know what's happening
-- **Open source** — MIT license, configure everything via `.env`
+- **Open source** — CUSTOM license, configure everything via `.env`
 
 ## Quick Start
 
